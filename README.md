@@ -1,4 +1,4 @@
-# Converting a Xamarin.Forms view 
+# Converting a Xamarin.Forms view into a Native view for each platform (iOS/Android)
 
 Sample repository that shows converting Xamarin.Forms view into a Native view. 
 
